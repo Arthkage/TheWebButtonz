@@ -1,0 +1,60 @@
+#tabel{
+	
+	margin: 0;
+	padding: 20px 100px 10px 100px;
+	
+}
+#btn1:hover,#btn2:hover,#btn3:hover,#btn4:hover{
+
+	background-color:green;
+	color: yellow;
+	
+}
+#btn5:hover,#btnSuma:hover{
+
+	background-color: red;
+}
+#youtube:hover,#gmaps:hover{
+
+	background:magenta;
+	color:white;
+}
+
+#btn1:active,#btn2:active,#btn3:active,#btn4:active{
+
+	background-color:black;
+	color: white;
+	
+}
+#btn1,#btn2,#btn3,#btn4,#btn5,#btn6{
+
+	height:30px;
+	width:50px;
+}
+#boddy{
+
+    background-size: 100% 100%;
+	background: url("http://cdn2.landscapehdwalls.com/wallpapers/1/clouds-in-the-sky-428-2560x1600.jpg") no-repeat;
+
+}
+#math{
+	background-size: 100% 100%;
+	background: url("http://anodosedu.gr/wp-content/uploads/2014/05/257871.jpg") no-repeat;
+
+}
+#formularen{
+
+	color: teal;
+}
+#pagina3{
+	background-size: 130% 120%;
+	background: url("http://5-7-5.ru/wp-content/uploads/2014/01/15.jpg") no-repeat;
+}
+#numere{
+	color:white;
+}
+#textare{
+	background-size: 100% 100%;
+	background: url("http://www.whitewallpaper.org/backgrounds/white-blanket-647343.jpeg")
+	no-repeat;
+}
